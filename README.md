@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Machine Learning & Artificial Intelligence Enthusiast
-📫 Reach me at [abineshsivakumar@gmail.com]
+- 🔭 Machine Learning & Artificial Intelligence Enthusiast
+- 📫 Reach me at [abineshsivakumar@gmail.com]
