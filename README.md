@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Abinesh Sivakumar 👋
 
 <!--
 **AbineshSivakumar/AbineshSivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Machine Learning & Artificial Intelligence Enthusiast
-- 📫 Reach me at [abineshsivakumar@gmail.com]
+- 🧐 Open for collaboration
+- 📫 Reach me at abineshsivakumar@gmail.com
