@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 ***
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshSivakumar)](https://github.com/AbineshSivakumar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbineshSivakumar&layout=compact)](https://github.com/AbineshSivakumar)
